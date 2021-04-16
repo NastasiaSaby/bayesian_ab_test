@@ -1,6 +1,6 @@
 # Bayesian AB Tests with Pymc3
 
-This project shows an example of bayesaian AB Tests with Pymc3.
+This project shows an example of bayesian AB Tests with Pymc3.
 
 It consists of a Jupyter notebook with an example.
 
